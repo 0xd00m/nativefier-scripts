@@ -15,4 +15,4 @@ Repo currently contains scripts for:
 + Reddit/Libreddit
 + Webex
 
-The script depends on Nativefier, which can be installed from here [Nativefier](https://github.com/nativefier/nativefier/)
+The scripts depends on Nativefier, which can be installed from here [Nativefier](https://github.com/nativefier/nativefier/)
