@@ -1,5 +1,3 @@
-### Linux desktop file example
-
 Create a desktop file to launch the applications from a menu launcher.
 
 The flags are only needed for wayland compositors.
